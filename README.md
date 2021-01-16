@@ -1,2 +1,2 @@
 # SoftUni
-Software Engineering - Python
+Software Engineering 
